@@ -1,0 +1,201 @@
+ID_Commande,ID_Fournisseur,ID_Acheteur,Date_Commande,Date_Livraison_Prevue,Date_Livraison_Reelle,Produit,Quantite,Prix_Unitaire,Montant_Total,Statut,Note_Qualite,Conforme,Commentaires
+C0001,F002,A001,2025-03-04,2025-03-18,2025-03-07,Consommables,67,574.36,38482.12,Livrée,8.5,Non,Livraison parfaite
+C0002,F002,A002,2025-02-26,2025-03-03,2025-03-08,Outillage,43,711.82,30608.26,Livrée,7.2,Oui,Livraison parfaite
+C0003,F009,A004,2024-10-07,2024-10-15,2024-10-14,Services IT,87,37.34,3248.58,Livrée,7.8,Oui,Petit retard acceptable
+C0004,F004,A002,2025-03-29,2025-04-08,2025-04-15,Fournitures Bureau,97,829.59,80470.23,Livrée,9.9,Oui,Conforme aux attentes
+C0005,F003,A004,2025-09-09,2025-09-15,2025-09-24,Services IT,17,404.83,6882.11,Livrée,9.0,Oui,Livraison parfaite
+C0006,F012,A005,2025-08-08,2025-08-13,2025-08-17,Composants Électroniques,34,247.39,8411.26,Livrée,6.7,Non,Qualité excellente
+C0007,F015,A005,2025-04-01,2025-04-11,2025-04-08,Services IT,76,570.38,43348.88,Livrée,6.5,Oui,Livraison parfaite
+C0008,F014,A004,2024-11-10,2024-11-19,2024-11-27,Consommables,90,496.7,44703.0,Livrée,6.7,Oui,Petit retard acceptable
+C0009,F004,A002,2024-10-04,2024-10-12,2024-10-09,Consommables,19,508.1,9653.9,Retard,8.6,Oui,Livraison parfaite
+C0010,F001,A004,2025-05-29,2025-06-06,2025-05-31,Matières Premières,35,646.86,22640.1,Livrée,8.2,Non,Petit retard acceptable
+C0011,F011,A004,2025-03-11,2025-03-17,,Matières Premières,35,343.19,12011.65,Livrée,7.5,Oui,Petit retard acceptable
+C0012,F007,A004,2025-01-17,2025-01-31,2025-01-26,Matériel Informatique,36,423.77,15255.72,Annulée,8.2,Oui,Qualité excellente
+C0013,F003,A004,2025-05-09,2025-05-15,2025-05-26,Matériel Informatique,23,931.45,21423.35,Retard,7.7,Oui,Conforme aux attentes
+C0014,F001,A004,2025-09-20,2025-10-03,2025-10-07,Services IT,49,62.95,3084.55,Annulée,9.4,Oui,
+C0015,F010,A005,2025-05-05,2025-05-14,2025-05-24,Outillage,52,675.79,35141.08,En_Cours,9.2,Oui,Livraison parfaite
+C0016,F014,A002,2024-11-05,2024-11-14,2024-11-12,Matières Premières,76,691.15,52527.4,En_Cours,9.5,Oui,Petit retard acceptable
+C0017,F009,A002,2025-03-11,2025-03-25,2025-03-21,Fournitures Bureau,38,986.77,37497.26,Livrée,7.5,Oui,Très satisfait
+C0018,F004,A004,2025-04-29,2025-05-09,2025-05-12,Services IT,61,384.21,23436.81,En_Cours,7.0,Oui,Petit retard acceptable
+C0019,F002,A004,2025-03-16,2025-03-30,2025-03-29,Matériel Informatique,61,824.56,50298.16,En_Cours,8.7,Oui,Petit retard acceptable
+C0020,F006,A005,2025-08-02,2025-08-12,2025-08-03,Fournitures Bureau,80,532.42,42593.6,Annulée,6.3,Oui,
+C0021,F001,A001,2024-11-10,2024-11-19,2024-11-19,Services IT,16,739.73,11835.68,Retard,9.8,Oui,Petit retard acceptable
+C0022,F010,A004,2025-02-27,2025-03-07,2025-03-07,Consommables,60,587.82,35269.2,Livrée,9.9,Non,Qualité excellente
+C0023,F001,A005,2025-02-16,2025-02-24,2025-02-25,Services IT,6,950.3,5701.8,En_Cours,8.5,Oui,Très satisfait
+C0024,F005,A001,2025-05-24,2025-06-03,2025-06-06,Composants Électroniques,11,598.19,6580.09,Livrée,9.9,Oui,Conforme aux attentes
+C0025,F003,A001,2024-12-31,2025-01-09,,Maintenance,92,814.77,74958.84,Annulée,10.0,Oui,Conforme aux attentes
+C0026,F010,A003,2025-03-08,2025-03-13,2025-03-18,Outillage,1,954.51,954.51,Livrée,6.9,Oui,Qualité excellente
+C0027,F007,A002,2025-09-07,2025-09-21,2025-09-15,Maintenance,3,524.96,1574.88,Retard,8.2,Oui,À améliorer
+C0028,F015,A005,2025-08-03,2025-08-12,2025-08-20,Services IT,38,621.09,23601.42,Annulée,8.4,Oui,Qualité excellente
+C0029,F001,A004,2025-07-29,2025-08-09,2025-08-04,Composants Électroniques,5,798.51,3992.55,Livrée,9.4,Oui,Livraison parfaite
+C0030,F006,A005,2024-12-02,2024-12-08,2024-12-04,Services IT,23,136.77,3145.71,Livrée,6.6,Oui,Livraison parfaite
+C0031,F003,A003,2025-03-27,2025-04-02,2025-03-30,Services IT,19,823.57,15647.83,Livrée,7.4,Oui,Qualité excellente
+C0032,F012,A002,2025-02-04,2025-02-10,2025-02-13,Consommables,45,328.37,14776.65,Livrée,7.9,Oui,Qualité excellente
+C0033,F013,A001,2025-01-09,2025-01-23,2025-01-25,Matériel Informatique,99,192.68,19075.32,Livrée,7.5,Oui,Qualité excellente
+C0034,F013,A002,2024-12-11,2024-12-23,2024-12-13,Services IT,23,516.56,11880.88,Livrée,6.4,Oui,Qualité excellente
+C0035,F012,A002,2024-10-09,2024-10-20,2024-10-14,Logiciels,86,334.22,28742.92,Livrée,9.6,Oui,Qualité excellente
+C0036,F013,A002,2024-11-30,2024-12-08,2024-12-09,Matières Premières,8,590.67,4725.36,Livrée,7.5,Oui,À améliorer
+C0037,F011,A003,2025-08-10,2025-08-20,2025-08-12,Composants Électroniques,53,110.76,5870.28,Livrée,7.0,Oui,Livraison parfaite
+C0038,F007,A003,2025-08-08,2025-08-15,,Fournitures Bureau,36,997.28,35902.08,Retard,8.3,Non,Livraison parfaite
+C0039,F014,A003,2025-01-20,2025-02-02,2025-02-06,Matériel Informatique,26,287.18,7466.68,En_Cours,6.7,Oui,Petit retard acceptable
+C0040,F012,A001,2025-05-07,2025-05-21,2025-05-24,Maintenance,37,511.04,18908.48,Retard,7.3,Oui,Petit retard acceptable
+C0041,F007,A002,2024-10-04,2024-10-10,2024-10-09,Matières Premières,84,262.09,22015.56,Livrée,9.0,Oui,Petit retard acceptable
+C0042,F005,A004,2024-12-27,2025-01-02,2025-01-13,Matériel Informatique,75,938.96,70422.0,Livrée,6.3,Oui,Qualité excellente
+C0043,F011,A001,2025-08-10,2025-08-19,2025-08-18,Services IT,85,194.54,16535.9,Livrée,8.5,Non,Petit retard acceptable
+C0044,F008,A003,2024-11-05,2024-11-15,2024-11-23,Composants Électroniques,25,361.81,9045.25,Livrée,8.1,Oui,Livraison parfaite
+C0045,F006,A003,2024-11-02,2024-11-13,2024-11-21,Consommables,64,175.06,11203.84,Retard,8.0,Oui,Qualité excellente
+C0046,F009,A001,2025-02-28,2025-03-09,2025-03-06,Composants Électroniques,68,574.19,39044.92,En_Cours,9.5,Oui,Conforme aux attentes
+C0047,F004,A005,2025-03-02,2025-03-14,2025-03-17,Matériel Informatique,5,491.49,2457.45,Livrée,9.1,Oui,Qualité excellente
+C0048,F011,A005,2025-07-13,2025-07-21,2025-07-24,Consommables,38,235.08,8933.04,Livrée,7.2,Oui,Très satisfait
+C0049,F009,A001,2025-01-06,2025-01-18,2025-01-24,Équipements Industriels,68,792.18,53868.24,Livrée,8.6,Oui,Petit retard acceptable
+C0050,F008,A001,2024-11-14,2024-11-24,2024-11-28,Composants Électroniques,46,243.55,11203.3,Livrée,6.7,Oui,Petit retard acceptable
+C0051,F008,A005,2024-11-18,2024-12-01,2024-12-07,Consommables,52,789.91,41075.32,Livrée,6.5,Oui,À améliorer
+C0052,F007,A002,2025-07-15,2025-07-21,2025-07-17,Services IT,54,184.62,9969.48,Livrée,7.7,Non,Petit retard acceptable
+C0053,F006,A002,2024-11-26,2024-12-02,2024-12-07,Logiciels,81,961.46,77878.26,Livrée,7.7,Oui,
+C0054,F001,A005,2024-11-12,2024-11-23,2024-11-19,Matériel Informatique,83,355.89,29538.87,Livrée,8.5,Oui,Conforme aux attentes
+C0055,F001,A003,2024-10-13,2024-10-19,2024-10-31,Composants Électroniques,94,564.04,53019.76,Livrée,6.7,Oui,Très satisfait
+C0056,F010,A003,2025-07-09,2025-07-15,2025-07-19,Logiciels,55,164.59,9052.45,En_Cours,8.6,Oui,Livraison parfaite
+C0057,F006,A001,2025-06-06,2025-06-15,2025-06-14,Composants Électroniques,92,245.8,22613.6,Livrée,7.0,Oui,À améliorer
+C0058,F015,A002,2025-03-08,2025-03-19,2025-03-22,Composants Électroniques,23,849.65,19541.95,Livrée,9.5,Oui,Conforme aux attentes
+C0059,F004,A003,2025-07-24,2025-08-07,2025-07-29,Services IT,87,43.89,3818.43,En_Cours,7.4,Oui,Petit retard acceptable
+C0060,F003,A004,2024-11-16,2024-11-30,2024-11-28,Matériel Informatique,81,869.78,70452.18,Livrée,9.6,Oui,Petit retard acceptable
+C0061,F014,A001,2025-01-17,2025-01-29,2025-02-03,Outillage,73,147.96,10801.08,En_Cours,9.9,Oui,Livraison parfaite
+C0062,F011,A002,2025-04-27,2025-05-06,2025-05-02,Outillage,38,76.5,2907.0,Livrée,8.0,Oui,Livraison parfaite
+C0063,F011,A002,2025-09-01,2025-09-14,2025-09-07,Consommables,45,839.73,37787.85,Livrée,9.1,Oui,Petit retard acceptable
+C0064,F001,A003,2025-07-31,2025-08-09,2025-08-11,Consommables,29,395.4,11466.6,Livrée,7.4,Oui,Livraison parfaite
+C0065,F007,A005,2025-05-09,2025-05-21,2025-05-11,Équipements Industriels,20,170.39,3407.8,En_Cours,9.4,Non,Livraison parfaite
+C0066,F005,A001,2025-04-13,2025-04-26,2025-04-15,Composants Électroniques,89,707.88,63001.32,Livrée,7.8,Oui,Livraison parfaite
+C0067,F003,A002,2025-01-10,2025-01-17,2025-01-22,Composants Électroniques,61,792.11,48318.71,Livrée,8.1,Oui,
+C0068,F015,A005,2025-08-29,2025-09-03,2025-09-06,Maintenance,80,850.7,68056.0,Livrée,8.0,Oui,
+C0069,F010,A001,2025-09-24,2025-10-05,2025-10-09,Maintenance,7,43.61,305.27,Livrée,7.2,Non,
+C0070,F015,A004,2025-04-27,2025-05-08,2025-05-15,Consommables,17,653.67,11112.39,Livrée,8.2,Oui,À améliorer
+C0071,F010,A004,2025-03-14,2025-03-25,2025-03-22,Composants Électroniques,4,792.82,3171.28,Livrée,8.5,Oui,Qualité excellente
+C0072,F010,A002,2025-08-01,2025-08-12,2025-08-04,Matières Premières,32,933.26,29864.32,Livrée,6.0,Oui,Livraison parfaite
+C0073,F009,A004,2025-08-08,2025-08-21,2025-08-20,Outillage,84,740.21,62177.64,Livrée,6.4,Oui,Livraison parfaite
+C0074,F014,A005,2025-08-14,2025-08-27,2025-09-01,Fournitures Bureau,79,433.5,34246.5,Livrée,8.7,Oui,Très satisfait
+C0075,F011,A004,2024-11-24,2024-12-04,2024-11-29,Matériel Informatique,11,904.69,9951.59,Annulée,9.0,Oui,Petit retard acceptable
+C0076,F013,A002,2025-09-08,2025-09-14,2025-09-27,Outillage,3,827.94,2483.82,En_Cours,8.5,Oui,Qualité excellente
+C0077,F013,A003,2024-10-14,2024-10-28,2024-10-31,Matières Premières,62,996.37,61774.94,Retard,7.9,Oui,Conforme aux attentes
+C0078,F004,A005,2024-12-22,2024-12-28,2024-12-31,Matériel Informatique,67,280.23,18775.41,Livrée,6.2,Oui,Livraison parfaite
+C0079,F011,A003,2024-11-03,2024-11-09,2024-11-08,Maintenance,72,698.76,50310.72,Livrée,8.1,Non,Livraison parfaite
+C0080,F013,A001,2025-07-05,2025-07-11,2025-07-10,Services IT,58,575.61,33385.38,Livrée,8.2,Oui,Conforme aux attentes
+C0081,F008,A004,2025-04-28,2025-05-03,2025-05-17,Outillage,13,838.64,10902.32,Livrée,8.7,Oui,Conforme aux attentes
+C0082,F011,A005,2024-10-01,2024-10-15,2024-10-06,Logiciels,42,137.58,5778.36,Livrée,9.0,Oui,Conforme aux attentes
+C0083,F013,A004,2025-04-18,2025-04-29,2025-05-01,Composants Électroniques,17,124.69,2119.73,Livrée,6.0,Oui,Livraison parfaite
+C0084,F002,A004,2024-12-07,2024-12-16,2024-12-16,Équipements Industriels,20,691.01,13820.2,Livrée,7.2,Oui,Livraison parfaite
+C0085,F002,A005,2025-04-05,2025-04-13,2025-04-23,Équipements Industriels,76,34.34,2609.84,Livrée,7.3,Oui,Conforme aux attentes
+C0086,F014,A002,2024-11-21,2024-11-29,2024-11-23,Outillage,39,531.75,20738.25,En_Cours,7.2,Oui,Conforme aux attentes
+C0087,F011,A003,2024-12-17,2024-12-22,2024-12-28,Matériel Informatique,92,733.96,67524.32,Retard,9.4,Non,Conforme aux attentes
+C0088,F015,A002,2025-06-08,2025-06-15,,Outillage,24,374.84,8996.16,Retard,7.9,Non,Livraison parfaite
+C0089,F015,A003,2025-02-16,2025-02-22,2025-02-24,Services IT,93,139.93,13013.49,Livrée,9.7,Oui,Conforme aux attentes
+C0090,F007,A001,2025-02-24,2025-03-04,2025-03-10,Maintenance,48,496.68,23840.64,Livrée,8.3,Oui,Conforme aux attentes
+C0091,F001,A005,2024-11-27,2024-12-03,2024-12-10,Matières Premières,95,724.67,68843.65,Livrée,9.0,Non,Très satisfait
+C0092,F008,A001,2025-06-18,2025-06-23,2025-07-07,Maintenance,86,218.25,18769.5,Livrée,9.1,Non,Livraison parfaite
+C0093,F009,A005,2025-05-07,2025-05-12,2025-05-08,Consommables,22,328.87,7235.14,Annulée,6.8,Oui,Conforme aux attentes
+C0094,F001,A003,2025-01-08,2025-01-15,2025-01-20,Outillage,6,620.44,3722.64,Livrée,7.2,Non,Très satisfait
+C0095,F011,A003,2025-09-07,2025-09-15,2025-09-22,Maintenance,58,785.99,45587.42,Livrée,6.2,Oui,Petit retard acceptable
+C0096,F013,A001,2024-10-06,2024-10-13,2024-10-18,Logiciels,45,190.3,8563.5,En_Cours,8.6,Oui,Qualité excellente
+C0097,F008,A001,2025-04-23,2025-04-30,,Services IT,35,228.36,7992.6,Livrée,6.8,Oui,Livraison parfaite
+C0098,F004,A004,2025-04-25,2025-05-03,2025-04-30,Matières Premières,49,518.86,25424.14,Livrée,6.1,Oui,Qualité excellente
+C0099,F004,A002,2025-08-25,2025-09-01,2025-08-27,Maintenance,12,390.01,4680.12,Livrée,9.3,Oui,Conforme aux attentes
+C0100,F014,A002,2025-01-02,2025-01-08,2025-01-18,Fournitures Bureau,38,497.36,18899.68,Livrée,9.5,Oui,Qualité excellente
+C0101,F007,A001,2024-12-17,2024-12-30,2024-12-19,Matières Premières,35,660.17,23105.95,Livrée,9.1,Oui,
+C0102,F010,A003,2025-07-24,2025-08-03,2025-08-04,Consommables,93,343.63,31957.59,En_Cours,7.7,Oui,Qualité excellente
+C0103,F005,A005,2024-09-25,2024-10-04,2024-10-06,Matériel Informatique,44,451.9,19883.6,Retard,8.2,Oui,Livraison parfaite
+C0104,F009,A005,2025-08-24,2025-09-01,,Composants Électroniques,35,457.68,16018.8,Retard,7.3,Oui,Livraison parfaite
+C0105,F008,A003,2025-06-27,2025-07-03,2025-07-15,Outillage,39,460.19,17947.41,Livrée,8.0,Oui,Livraison parfaite
+C0106,F004,A002,2025-01-28,2025-02-11,2025-02-10,Matériel Informatique,85,102.96,8751.6,Livrée,7.8,Oui,Livraison parfaite
+C0107,F007,A002,2025-07-11,2025-07-25,,Matières Premières,17,832.57,14153.69,Retard,9.1,Oui,Conforme aux attentes
+C0108,F003,A005,2025-07-10,2025-07-19,2025-07-11,Matières Premières,64,57.73,3694.72,Annulée,7.6,Oui,Conforme aux attentes
+C0109,F011,A004,2024-12-10,2024-12-16,2024-12-19,Équipements Industriels,19,809.77,15385.63,En_Cours,9.2,Oui,Conforme aux attentes
+C0110,F009,A005,2025-09-03,2025-09-08,2025-09-10,Logiciels,15,698.51,10477.65,Livrée,7.8,Oui,Petit retard acceptable
+C0111,F003,A002,2025-01-04,2025-01-10,2025-01-15,Services IT,85,864.7,73499.5,Livrée,7.9,Oui,Petit retard acceptable
+C0112,F002,A005,2024-10-06,2024-10-14,2024-10-11,Logiciels,70,749.41,52458.7,En_Cours,8.1,Oui,Petit retard acceptable
+C0113,F005,A004,2025-08-26,2025-09-08,2025-09-10,Services IT,15,205.18,3077.7,Livrée,6.8,Oui,Qualité excellente
+C0114,F011,A005,2024-11-15,2024-11-22,2024-11-29,Consommables,36,720.46,25936.56,Livrée,9.9,Oui,Qualité excellente
+C0115,F010,A005,2025-06-14,2025-06-25,2025-06-26,Composants Électroniques,42,193.38,8121.96,Retard,7.7,Oui,Conforme aux attentes
+C0116,F010,A003,2025-03-15,2025-03-26,2025-03-28,Fournitures Bureau,86,597.6,51393.6,En_Cours,8.6,Oui,Petit retard acceptable
+C0117,F008,A001,2025-03-13,2025-03-27,2025-03-21,Équipements Industriels,50,734.64,36732.0,Retard,8.7,Oui,Conforme aux attentes
+C0118,F015,A001,2025-05-24,2025-05-31,2025-05-29,Composants Électroniques,21,104.76,2199.96,Livrée,8.6,Oui,Qualité excellente
+C0119,F014,A005,2025-02-09,2025-02-22,2025-02-18,Matières Premières,64,145.08,9285.12,Livrée,7.6,Oui,Conforme aux attentes
+C0120,F007,A004,2025-05-23,2025-05-30,2025-06-03,Maintenance,42,906.47,38071.74,En_Cours,7.1,Oui,Qualité excellente
+C0121,F001,A003,2024-12-06,2024-12-16,2024-12-14,Équipements Industriels,13,523.87,6810.31,Livrée,9.2,Oui,Qualité excellente
+C0122,F002,A003,2025-05-12,2025-05-22,2025-05-20,Consommables,3,198.42,595.26,Livrée,7.5,Oui,
+C0123,F006,A004,2025-07-07,2025-07-21,2025-07-15,Outillage,55,540.47,29725.85,Livrée,7.8,Oui,Petit retard acceptable
+C0124,F014,A005,2025-02-07,2025-02-18,2025-02-10,Matériel Informatique,5,739.81,3699.05,En_Cours,7.0,Oui,Livraison parfaite
+C0125,F005,A004,2025-05-13,2025-05-23,2025-05-14,Équipements Industriels,97,235.08,22802.76,Livrée,7.5,Oui,Livraison parfaite
+C0126,F004,A002,2025-08-21,2025-08-29,2025-08-24,Maintenance,35,788.41,27594.35,Livrée,8.3,Oui,Qualité excellente
+C0127,F006,A002,2024-11-12,2024-11-19,2024-11-22,Consommables,30,724.21,21726.3,Livrée,6.8,Oui,Petit retard acceptable
+C0128,F011,A002,2025-03-06,2025-03-13,2025-03-08,Équipements Industriels,82,644.56,52853.92,En_Cours,6.5,Oui,Très satisfait
+C0129,F014,A005,2025-06-21,2025-06-29,2025-06-22,Outillage,6,154.91,929.46,Livrée,6.3,Oui,Livraison parfaite
+C0130,F012,A004,2024-12-01,2024-12-09,2024-12-14,Maintenance,32,223.88,7164.16,Livrée,8.6,Oui,Livraison parfaite
+C0131,F014,A003,2025-06-17,2025-06-23,,Matériel Informatique,79,983.84,77723.36,Livrée,6.6,Oui,Petit retard acceptable
+C0132,F012,A001,2025-06-14,2025-06-22,2025-06-30,Matériel Informatique,17,240.32,4085.44,Livrée,6.7,Oui,Conforme aux attentes
+C0133,F004,A005,2025-03-21,2025-03-28,2025-03-26,Maintenance,14,185.12,2591.68,Livrée,9.9,Oui,Livraison parfaite
+C0134,F015,A005,2025-05-28,2025-06-11,2025-06-03,Matériel Informatique,39,622.76,24287.64,Livrée,9.3,Oui,Livraison parfaite
+C0135,F001,A003,2025-03-16,2025-03-21,2025-03-20,Fournitures Bureau,52,273.36,14214.72,Livrée,6.5,Oui,Livraison parfaite
+C0136,F003,A001,2024-12-15,2024-12-23,2024-12-23,Consommables,21,956.66,20089.86,Livrée,6.4,Oui,Très satisfait
+C0137,F013,A001,2025-02-01,2025-02-15,2025-02-17,Matériel Informatique,21,826.88,17364.48,Livrée,7.5,Oui,Livraison parfaite
+C0138,F003,A005,2025-09-02,2025-09-07,2025-09-15,Matériel Informatique,77,47.64,3668.28,En_Cours,8.6,Oui,Livraison parfaite
+C0139,F004,A005,2024-10-11,2024-10-23,2024-10-16,Équipements Industriels,11,971.04,10681.44,Retard,9.1,Oui,Petit retard acceptable
+C0140,F010,A004,2025-06-12,2025-06-17,2025-06-20,Matériel Informatique,25,976.23,24405.75,Livrée,6.0,Oui,Livraison parfaite
+C0141,F009,A002,2025-01-07,2025-01-18,,Matières Premières,10,800.73,8007.3,Livrée,9.9,Oui,Qualité excellente
+C0142,F012,A002,2025-09-10,2025-09-24,2025-09-26,Matériel Informatique,18,232.37,4182.66,Livrée,7.7,Oui,Qualité excellente
+C0143,F003,A001,2025-06-29,2025-07-11,2025-07-11,Consommables,32,323.75,10360.0,Retard,7.0,Oui,Qualité excellente
+C0144,F014,A004,2025-02-20,2025-03-02,2025-02-28,Outillage,22,544.16,11971.52,En_Cours,6.4,Oui,Livraison parfaite
+C0145,F003,A004,2024-11-13,2024-11-23,2024-11-28,Composants Électroniques,56,615.82,34485.92,Livrée,6.6,Oui,Qualité excellente
+C0146,F015,A002,2025-07-02,2025-07-16,,Composants Électroniques,5,882.64,4413.2,Livrée,6.8,Oui,Qualité excellente
+C0147,F007,A003,2024-10-04,2024-10-10,2024-10-18,Outillage,36,15.18,546.48,En_Cours,6.1,Oui,Livraison parfaite
+C0148,F003,A003,2024-10-14,2024-10-23,2024-10-25,Équipements Industriels,20,782.6,15652.0,Livrée,6.6,Oui,Livraison parfaite
+C0149,F006,A004,2025-09-18,2025-10-01,2025-09-28,Composants Électroniques,71,486.16,34517.36,Livrée,6.3,Oui,Qualité excellente
+C0150,F014,A002,2025-06-05,2025-06-12,2025-06-07,Services IT,49,640.13,31366.37,Livrée,8.8,Oui,
+C0151,F003,A005,2025-01-19,2025-01-27,2025-01-23,Composants Électroniques,55,243.5,13392.5,Livrée,6.3,Oui,Conforme aux attentes
+C0152,F001,A001,2025-08-03,2025-08-13,2025-08-16,Maintenance,47,841.4,39545.8,Livrée,8.3,Oui,Livraison parfaite
+C0153,F002,A003,2024-11-24,2024-11-29,2024-12-04,Maintenance,70,522.9,36603.0,Livrée,9.8,Oui,Petit retard acceptable
+C0154,F004,A001,2024-12-02,2024-12-11,2024-12-07,Fournitures Bureau,70,634.86,44440.2,Livrée,9.6,Non,Conforme aux attentes
+C0155,F009,A004,2025-01-02,2025-01-15,2025-01-08,Matériel Informatique,89,957.05,85177.45,Livrée,6.2,Oui,Livraison parfaite
+C0156,F008,A002,2025-03-06,2025-03-16,2025-03-20,Outillage,77,275.46,21210.42,Livrée,9.4,Oui,Qualité excellente
+C0157,F002,A001,2025-09-22,2025-10-03,,Matières Premières,32,667.15,21348.8,Annulée,8.2,Non,Livraison parfaite
+C0158,F010,A005,2025-02-13,2025-02-19,2025-02-18,Logiciels,90,199.28,17935.2,Livrée,7.2,Non,
+C0159,F005,A004,2025-03-04,2025-03-18,,Maintenance,33,528.16,17429.28,Livrée,9.4,Oui,Livraison parfaite
+C0160,F001,A002,2024-12-19,2024-12-29,2025-01-05,Matières Premières,65,434.34,28232.1,Livrée,8.7,Oui,Livraison parfaite
+C0161,F003,A005,2025-02-15,2025-02-26,2025-03-03,Matériel Informatique,40,120.82,4832.8,Livrée,9.9,Oui,Petit retard acceptable
+C0162,F005,A004,2024-10-26,2024-11-09,2024-11-02,Équipements Industriels,86,27.77,2388.22,Livrée,8.6,Oui,Livraison parfaite
+C0163,F015,A002,2025-03-11,2025-03-24,,Services IT,72,289.61,20851.92,Livrée,9.2,Oui,Petit retard acceptable
+C0164,F003,A005,2025-03-21,2025-03-28,2025-04-01,Consommables,8,294.27,2354.16,En_Cours,8.3,Oui,Conforme aux attentes
+C0165,F014,A002,2024-11-10,2024-11-24,2024-11-25,Maintenance,12,174.37,2092.44,Livrée,7.5,Oui,Livraison parfaite
+C0166,F007,A005,2025-05-02,2025-05-11,2025-05-03,Maintenance,19,883.59,16788.21,En_Cours,8.0,Non,Petit retard acceptable
+C0167,F002,A004,2024-10-15,2024-10-25,2024-10-28,Logiciels,27,689.99,18629.73,Livrée,6.1,Oui,Livraison parfaite
+C0168,F013,A004,2025-02-04,2025-02-17,2025-02-07,Matières Premières,6,713.14,4278.84,Livrée,7.9,Oui,Petit retard acceptable
+C0169,F006,A003,2025-04-25,2025-05-09,2025-04-27,Matériel Informatique,90,109.63,9866.7,Livrée,6.6,Oui,Petit retard acceptable
+C0170,F009,A001,2025-08-04,2025-08-13,2025-08-15,Services IT,33,135.0,4455.0,Livrée,7.3,Oui,Livraison parfaite
+C0171,F008,A003,2025-04-13,2025-04-21,2025-04-14,Maintenance,15,220.52,3307.8,Livrée,7.2,Oui,Très satisfait
+C0172,F003,A004,2024-11-02,2024-11-08,2024-11-11,Maintenance,91,564.84,51400.44,Livrée,7.8,Oui,À améliorer
+C0173,F003,A003,2025-08-18,2025-08-26,,Matériel Informatique,88,36.9,3247.2,Annulée,6.5,Oui,
+C0174,F012,A004,2025-06-26,2025-07-07,2025-07-05,Outillage,19,874.03,16606.57,Livrée,8.8,Oui,Livraison parfaite
+C0175,F001,A004,2025-07-07,2025-07-20,2025-07-16,Fournitures Bureau,99,234.09,23174.91,En_Cours,8.4,Oui,À améliorer
+C0176,F013,A001,2024-09-26,2024-10-08,2024-10-05,Logiciels,16,247.12,3953.92,En_Cours,6.1,Oui,
+C0177,F004,A005,2024-11-13,2024-11-20,2024-11-18,Fournitures Bureau,73,910.53,66468.69,Livrée,9.3,Oui,Qualité excellente
+C0178,F008,A004,2025-07-22,2025-08-01,2025-08-06,Outillage,19,893.6,16978.4,Livrée,8.4,Oui,Qualité excellente
+C0179,F004,A004,2025-02-28,2025-03-08,2025-03-19,Services IT,86,270.05,23224.3,Livrée,7.9,Non,Livraison parfaite
+C0180,F001,A005,2025-06-13,2025-06-23,,Matériel Informatique,83,284.05,23576.15,Annulée,7.3,Oui,Livraison parfaite
+C0181,F013,A004,2025-07-12,2025-07-24,2025-07-28,Maintenance,49,17.59,861.91,Livrée,6.1,Oui,Petit retard acceptable
+C0182,F014,A002,2025-08-31,2025-09-10,2025-09-17,Outillage,88,96.22,8467.36,Livrée,6.5,Oui,Qualité excellente
+C0183,F013,A003,2024-11-04,2024-11-11,2024-11-11,Composants Électroniques,40,427.61,17104.4,Livrée,9.6,Oui,Qualité excellente
+C0184,F013,A002,2025-05-22,2025-06-02,2025-05-23,Fournitures Bureau,8,864.25,6914.0,Livrée,8.9,Oui,Livraison parfaite
+C0185,F002,A002,2025-08-30,2025-09-07,2025-09-17,Équipements Industriels,82,101.36,8311.52,Livrée,8.2,Non,Petit retard acceptable
+C0186,F009,A002,2025-05-25,2025-06-07,2025-06-09,Services IT,75,602.71,45203.25,Livrée,6.6,Oui,Livraison parfaite
+C0187,F011,A005,2025-06-10,2025-06-16,2025-06-16,Services IT,16,991.35,15861.6,En_Cours,8.8,Oui,Petit retard acceptable
+C0188,F015,A002,2025-08-01,2025-08-10,2025-08-14,Composants Électroniques,95,471.94,44834.3,En_Cours,6.3,Oui,À améliorer
+C0189,F007,A001,2025-01-01,2025-01-10,2025-01-14,Matières Premières,32,824.2,26374.4,Retard,9.7,Oui,Petit retard acceptable
+C0190,F012,A001,2024-11-11,2024-11-23,2024-11-15,Matériel Informatique,28,436.22,12214.16,Livrée,9.6,Oui,Livraison parfaite
+C0191,F012,A002,2025-02-28,2025-03-07,2025-03-10,Composants Électroniques,38,848.67,32249.46,Livrée,9.4,Oui,Qualité excellente
+C0192,F001,A005,2024-10-25,2024-10-31,2024-10-29,Matériel Informatique,88,510.4,44915.2,Annulée,7.5,Oui,Livraison parfaite
+C0193,F002,A003,2025-05-16,2025-05-25,2025-06-04,Fournitures Bureau,37,956.36,35385.32,Livrée,9.6,Oui,Conforme aux attentes
+C0194,F011,A004,2025-07-06,2025-07-11,2025-07-19,Maintenance,68,980.31,66661.08,Livrée,8.1,Oui,Livraison parfaite
+C0195,F003,A002,2025-09-02,2025-09-08,2025-09-21,Services IT,85,349.02,29666.7,Livrée,9.9,Oui,Petit retard acceptable
+C0196,F013,A002,2024-12-25,2025-01-02,2024-12-28,Composants Électroniques,99,881.51,87269.49,Livrée,8.3,Oui,Livraison parfaite
+C0197,F012,A005,2025-08-31,2025-09-05,2025-09-08,Maintenance,19,141.05,2679.95,Livrée,8.4,Oui,Petit retard acceptable
+C0198,F007,A004,2025-05-28,2025-06-06,2025-06-08,Équipements Industriels,41,878.32,36011.12,Retard,6.6,Oui,
+C0199,F015,A002,2025-05-18,2025-05-26,2025-05-24,Composants Électroniques,62,764.18,47379.16,Livrée,8.0,Oui,Qualité excellente
+C0200,F011,A002,2025-03-22,2025-03-29,2025-04-05,Équipements Industriels,7,956.49,6695.43,Livrée,6.4,Oui,Petit retard acceptable

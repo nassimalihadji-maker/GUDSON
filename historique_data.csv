@@ -1,0 +1,51 @@
+ID_Historique,Date_Action,Utilisateur,Action,Table_Modifiee,ID_Enregistrement,Champ_Modifie,Ancienne_Valeur,Nouvelle_Valeur,Commentaire
+H0001,2025-06-04 18:18:02,admin,Modification acheteur,Acheteurs,C0067,Prix_Moyen_Commande,Valeur_69,Valeur_13,Mise à jour système
+H0002,2025-08-25 18:18:02,acheteur2,Modification fournisseur,Commandes,F011,Prix_Moyen_Commande,Valeur_54,Valeur_10,Correction manuelle
+H0003,2025-07-23 18:18:02,acheteur1,Modification commande,Commandes,C0035,Date_Livraison,Valeur_57,Valeur_94,Validation données
+H0004,2025-09-06 18:18:02,acheteur1,Modification acheteur,Commandes,F007,Date_Livraison,Valeur_7,Valeur_67,Mise à jour automatique
+H0005,2025-08-20 18:18:02,admin,Modification commande,Fournisseurs,C0141,Montant_Total,Valeur_60,Valeur_73,Mise à jour automatique
+H0006,2025-04-14 18:18:02,acheteur2,Modification fournisseur,Acheteurs,C0009,Statut,Valeur_46,Valeur_78,Ajustement performance
+H0007,2025-04-20 18:18:02,acheteur2,Annulation commande,Acheteurs,C0003,Date_Livraison,Valeur_60,Valeur_77,Correction erreur
+H0008,2025-08-22 18:18:02,admin,Suppression fournisseur,Acheteurs,F002,Score_Qualite,Valeur_34,Valeur_16,Mise à jour système
+H0009,2025-07-21 18:18:02,acheteur1,Modification acheteur,Acheteurs,C0034,Commentaires,Valeur_67,Valeur_8,Mise à jour système
+H0010,2025-05-28 18:18:02,acheteur1,Création acheteur,Acheteurs,C0053,Commentaires,Valeur_65,Valeur_17,Mise à jour automatique
+H0011,2025-04-20 18:18:02,admin,Modification commande,Acheteurs,C0057,Score_Qualite,Valeur_86,Valeur_31,Mise à jour automatique
+H0012,2025-09-02 18:18:02,consultant1,Ajout commande,Commandes,C0160,Statut,Valeur_14,Valeur_50,Ajustement performance
+H0013,2025-06-07 18:18:02,consultant1,Modification commande,Acheteurs,F004,Montant_Total,Valeur_59,Valeur_87,Correction manuelle
+H0014,2025-09-13 18:18:02,acheteur2,Modification fournisseur,Commandes,F011,Score_Qualite,Valeur_76,Valeur_49,Mise à jour automatique
+H0015,2025-06-24 18:18:02,acheteur1,Modification fournisseur,Commandes,F007,Statut,Valeur_8,Valeur_41,Mise à jour système
+H0016,2025-07-18 18:18:02,consultant1,Changement statut,Fournisseurs,F009,Score_Qualite,Valeur_19,Valeur_9,Validation données
+H0017,2025-04-16 18:18:02,consultant1,Ajout commande,Commandes,F013,Prix_Moyen_Commande,Valeur_49,Valeur_70,Ajustement performance
+H0018,2025-03-30 18:18:02,admin,Création fournisseur,Commandes,C0157,Score_Qualite,Valeur_60,Valeur_91,Mise à jour automatique
+H0019,2025-05-28 18:18:02,acheteur2,Création acheteur,Fournisseurs,F013,Montant_Total,Valeur_33,Valeur_24,Ajustement performance
+H0020,2025-09-14 18:18:02,admin,Ajout commande,Acheteurs,F009,Montant_Total,Valeur_84,Valeur_83,Validation données
+H0021,2025-05-08 18:18:02,admin,Création fournisseur,Fournisseurs,C0103,Note_Performance,Valeur_41,Valeur_99,Correction manuelle
+H0022,2025-06-12 18:18:02,consultant1,Création acheteur,Fournisseurs,C0141,Note_Performance,Valeur_31,Valeur_2,Mise à jour automatique
+H0023,2025-07-14 18:18:02,acheteur1,Annulation commande,Commandes,C0109,Commentaires,Valeur_45,Valeur_34,Mise à jour automatique
+H0024,2025-09-17 18:18:02,acheteur2,Ajout commande,Commandes,F006,Note_Performance,Valeur_44,Valeur_21,Ajustement performance
+H0025,2025-08-02 18:18:02,acheteur1,Création fournisseur,Fournisseurs,C0013,Score_Qualite,Valeur_49,Valeur_54,Correction manuelle
+H0026,2025-08-03 18:18:02,consultant1,Modification commande,Commandes,C0165,Date_Livraison,Valeur_24,Valeur_2,Mise à jour système
+H0027,2025-07-06 18:18:02,consultant1,Suppression fournisseur,Fournisseurs,F006,Score_Qualite,Valeur_12,Valeur_54,Ajustement performance
+H0028,2025-09-01 18:18:02,admin,Changement statut,Commandes,F006,Score_Qualite,Valeur_84,Valeur_28,Mise à jour automatique
+H0029,2025-06-13 18:18:02,consultant1,Annulation commande,Fournisseurs,C0175,Date_Livraison,Valeur_34,Valeur_37,Mise à jour système
+H0030,2025-05-13 18:18:02,consultant1,Modification commande,Fournisseurs,F010,Commentaires,Valeur_57,Valeur_12,Validation données
+H0031,2025-05-31 18:18:02,consultant1,Création acheteur,Acheteurs,F011,Score_Qualite,Valeur_87,Valeur_89,Correction erreur
+H0032,2025-07-28 18:18:02,consultant1,Modification acheteur,Acheteurs,F013,Statut,Valeur_98,Valeur_28,Correction erreur
+H0033,2025-07-08 18:18:02,consultant1,Création acheteur,Commandes,F008,Score_Qualite,Valeur_5,Valeur_56,Ajustement performance
+H0034,2025-03-31 18:18:02,acheteur2,Annulation commande,Fournisseurs,C0090,Note_Performance,Valeur_71,Valeur_57,Correction manuelle
+H0035,2025-08-31 18:18:02,acheteur1,Suppression fournisseur,Acheteurs,F008,Note_Performance,Valeur_95,Valeur_28,Validation données
+H0036,2025-07-22 18:18:02,admin,Ajout commande,Commandes,C0188,Score_Qualite,Valeur_47,Valeur_31,Mise à jour automatique
+H0037,2025-04-04 18:18:02,acheteur1,Création fournisseur,Commandes,C0052,Score_Qualite,Valeur_75,Valeur_54,Mise à jour automatique
+H0038,2025-03-31 18:18:02,acheteur1,Modification fournisseur,Acheteurs,C0122,Montant_Total,Valeur_46,Valeur_69,Mise à jour système
+H0039,2025-08-18 18:18:02,acheteur1,Annulation commande,Commandes,C0046,Montant_Total,Valeur_95,Valeur_94,Validation données
+H0040,2025-09-19 18:18:02,admin,Modification acheteur,Fournisseurs,C0161,Score_Qualite,Valeur_75,Valeur_77,Correction manuelle
+H0041,2025-09-14 18:18:02,acheteur2,Annulation commande,Fournisseurs,C0099,Note_Performance,Valeur_48,Valeur_56,Validation données
+H0042,2025-06-27 18:18:02,acheteur1,Changement statut,Acheteurs,C0018,Prix_Moyen_Commande,Valeur_87,Valeur_55,Mise à jour système
+H0043,2025-05-30 18:18:02,acheteur1,Annulation commande,Acheteurs,F013,Statut,Valeur_17,Valeur_43,Correction erreur
+H0044,2025-07-07 18:18:02,acheteur1,Modification fournisseur,Acheteurs,C0106,Date_Livraison,Valeur_96,Valeur_94,Mise à jour automatique
+H0045,2025-04-07 18:18:02,acheteur2,Création fournisseur,Acheteurs,F002,Date_Livraison,Valeur_93,Valeur_86,Ajustement performance
+H0046,2025-05-11 18:18:02,admin,Ajout commande,Fournisseurs,C0156,Statut,Valeur_43,Valeur_85,Correction manuelle
+H0047,2025-06-13 18:18:02,acheteur1,Création acheteur,Acheteurs,C0155,Score_Qualite,Valeur_93,Valeur_67,Ajustement performance
+H0048,2025-05-07 18:18:02,admin,Ajout commande,Fournisseurs,C0155,Statut,Valeur_1,Valeur_32,Mise à jour automatique
+H0049,2025-06-24 18:18:02,acheteur2,Création fournisseur,Acheteurs,C0117,Date_Livraison,Valeur_35,Valeur_99,Mise à jour automatique
+H0050,2025-06-14 18:18:02,acheteur2,Création fournisseur,Commandes,F013,Note_Performance,Valeur_53,Valeur_91,Correction manuelle

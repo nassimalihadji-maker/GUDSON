@@ -1,0 +1,30 @@
+# GUDSON KPI - Requirements optimisées pour Python 3.13 et Streamlit Cloud
+# Version finale - Compatible toutes versions Python >= 3.9
+
+# Framework principal
+streamlit>=1.38.0
+
+# Traitement de données - Versions compatibles Python 3.13
+pandas>=2.1.0
+numpy>=2.0.0
+
+# Visualisation
+plotly>=5.15.0
+
+# Utilitaires standards (généralement pré-installés)
+datetime
+hashlib
+json
+csv
+os
+uuid
+time
+
+# Interface utilisateur améliorée
+streamlit-option-menu>=0.3.0
+
+# Gestion des dates
+python-dateutil>=2.8.0
+
+# Encodage et validation
+openpyxl>=3.1.0

@@ -1,0 +1,6 @@
+ID_Acheteur,Nom_Acheteur,Email,Departement,Date_Embauche,Specialite,Budget_Alloue,Budget_Utilise,Nombre_Commandes,Valeur_Commandes,Economies_Realisees,Taux_Economie,Delai_Moyen_Traitement,Score_Performance,Objectif_Economies,Statut,Certification,Nombre_Fournisseurs_Geres,Note_Manager
+A001,Jean Dupont,j.dupont@gudson.com,Achats IT,2022-04-13,IT,301232.05,289930.44,51,289930.44,11780.6,4.1,4,8.8,31933.22,Senior,CDAF,3,9.0
+A002,Marie Martin,m.martin@gudson.com,Achats Production,2020-10-13,IT,311308.98,101518.48,44,101518.48,8216.16,8.1,3,8.2,23968.48,Senior,CIPS,6,8.0
+A003,Paul Moreau,p.moreau@gudson.com,Achats Généraux,2022-07-03,IT,214910.95,354767.02,27,354767.02,18152.26,5.1,2,8.4,25176.28,En Formation,CIPS,8,9.8
+A004,Sophie Bernard,s.bernard@gudson.com,Achats Production,2023-07-16,Services,245477.46,250791.13,40,250791.13,16538.08,6.6,2,7.5,29449.04,Actif,CIPS,3,7.6
+A005,Luc Petit,l.petit@gudson.com,Achats Services,2021-05-01,Matières Premières,175802.15,211047.61,25,211047.61,5309.13,2.5,6,8.1,34333.1,Senior,Aucune,7,7.9

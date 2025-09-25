@@ -1,0 +1,16 @@
+ID_Fournisseur,Nom_Fournisseur,Categorie,Pays,Date_Creation,Contact_Email,Telephone,Score_Qualite,Delai_Moyen_Livraison,Taux_Conformite,Prix_Moyen_Commande,Nombre_Commandes,CA_Total,Statut,Note_Performance,Certification_ISO,Delai_Paiement,Responsable_Compte
+F001,TechSolutions SA,Textile,Maroc,2024-11-29,contact@techsolutionssa.com,+33 227521863,8.9,9,91.2,5448.76,92,173517.22,Actif,8.3,Oui,90,Marie Martin
+F002,MegaCorp Industries,Services,Allemagne,2025-02-16,contact@megacorpindustries.com,+33 887716372,8.9,12,92.3,21881.28,53,267139.58,Actif,6.2,Non,60,Marie Martin
+F003,GlobalSupply Ltd,Services,Chine,2024-02-11,contact@globalsupplyltd.com,+33 668919915,8.7,11,85.7,30573.47,25,230744.63,Actif,9.3,Oui,45,Jean Dupont
+F004,EuroTech Systems,Mécanique,Maroc,2024-09-21,contact@eurotechsystems.com,+33 916698734,9.1,14,91.9,2202.23,85,136802.19,Actif,7.1,Oui,45,Marie Martin
+F005,AfricaSupply Co,Alimentaire,Chine,2024-07-21,contact@africasupplyco.com,+33 207944665,8.5,12,97.5,30096.05,52,170004.98,Actif,7.8,Non,30,Jean Dupont
+F006,AsiaManufacturing,Mécanique,Chine,2025-07-05,contact@asiamanufacturing.com,+33 472593431,8.3,14,93.5,14161.96,19,90980.8,Actif,7.5,Oui,90,Pierre Consultant
+F007,AmericaTrade Inc,Chimique,Italie,2024-01-12,contact@americatradeinc.com,+33 272552610,9.3,7,98.0,32728.31,32,432920.68,Actif,7.2,Oui,60,Marie Martin
+F008,QualityFirst Ltd,Alimentaire,Italie,2023-10-13,contact@qualityfirstltd.com,+33 690804839,8.1,5,91.6,6419.92,135,382784.67,Actif,8.7,Oui,30,Pierre Consultant
+F009,SpeedLogistics,Mécanique,Allemagne,2024-05-23,contact@speedlogistics.com,+33 966377394,7.6,9,91.7,28382.14,136,454707.57,Actif,7.4,Non,90,Jean Dupont
+F010,GreenSupplier Co,Chimique,Italie,2025-06-02,contact@greensupplierco.com,+33 660355099,9.6,11,86.5,23098.46,112,101419.33,En_Evaluation,7.9,Non,90,Jean Dupont
+F011,InnovativeTech,Services,France,2024-08-07,contact@innovativetech.com,+33 734324250,8.5,6,89.9,15586.67,141,247566.69,Actif,6.9,Oui,60,Marie Martin
+F012,ReliableSource,Électronique,Espagne,2025-05-06,contact@reliablesource.com,+33 378710077,9.7,6,88.5,34967.06,135,157430.37,Actif,6.1,Oui,45,Marie Martin
+F013,PremiumGoods SA,Alimentaire,USA,2025-01-14,contact@premiumgoodssa.com,+33 677034624,8.1,4,92.4,22665.27,72,49618.13,Actif,6.8,Non,30,Marie Martin
+F014,EfficientSupply,Services,Tunisie,2024-04-03,contact@efficientsupply.com,+33 487791599,9.3,11,89.5,9732.67,97,430595.81,Actif,6.8,Non,60,Pierre Consultant
+F015,ModernTech Corp,Textile,USA,2024-04-25,contact@moderntechcorp.com,+33 920071328,8.4,9,98.1,7307.29,46,136391.4,Actif,8.9,Oui,90,Jean Dupont

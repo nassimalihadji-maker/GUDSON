@@ -1,0 +1,54 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "Admin",
+        "nom_complet": "Administrateur Système",
+        "email": "admin@gudson.com",
+        "date_creation": "2024-01-01",
+        "derniere_connexion": "2024-09-25",
+        "permissions": [
+            "lecture",
+            "ecriture",
+            "suppression",
+            "gestion_utilisateurs",
+            "export"
+        ]
+    },
+    "acheteur1": {
+        "password": "achat123",
+        "role": "Acheteur",
+        "nom_complet": "Jean Dupont",
+        "email": "j.dupont@gudson.com",
+        "date_creation": "2024-01-15",
+        "derniere_connexion": "2024-09-25",
+        "permissions": [
+            "lecture",
+            "ecriture",
+            "export"
+        ]
+    },
+    "acheteur2": {
+        "password": "achat123",
+        "role": "Acheteur",
+        "nom_complet": "Marie Martin",
+        "email": "m.martin@gudson.com",
+        "date_creation": "2024-02-01",
+        "derniere_connexion": "2024-09-24",
+        "permissions": [
+            "lecture",
+            "ecriture",
+            "export"
+        ]
+    },
+    "consultant1": {
+        "password": "consul123",
+        "role": "Consultant",
+        "nom_complet": "Pierre Consultant",
+        "email": "p.consultant@gudson.com",
+        "date_creation": "2024-03-01",
+        "derniere_connexion": "2024-09-23",
+        "permissions": [
+            "lecture"
+        ]
+    }
+}
